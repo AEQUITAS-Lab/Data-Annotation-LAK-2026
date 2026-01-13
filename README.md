@@ -2,7 +2,7 @@
 
 This repository contains data and code needed to replicate the analyses presented in the paper below, as well as code for applying the proposed error decomposition method to new data annotation tasks.
 
-Zhen Xu, Vedant Khatri, Diana Dai, Xiner Liu, Siyan Li, Xuanming Zhang, Renzhe Yu. (2025) Enhancing LLM-Based Data Annotation with Error Decomposition. In Proceedings of the 16th International Learning Analytics & Knowledge Conference. (LAK'26)
+Zhen Xu, Vedant Khatri, Yijun Dai, Xiner Liu, Siyan Li, Xuanming Zhang, Renzhe Yu. (2025). (2025) Enhancing LLM-Based Data Annotation with Error Decomposition. In Proceedings of the 16th International Learning Analytics & Knowledge Conference. (LAK'26)
 
 ## Appendix
 The appendix of the paper is available here: [Appendix (PDF)](LAK26_Error_Decomposition_appendix.pdf)
